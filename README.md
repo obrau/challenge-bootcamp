@@ -1,5 +1,5 @@
-# **Oriol Brau**
-*This is a readme for Guillermo Rodas's bootcamp
+# :raising_hand_man: **Oriol Brau**
+
 ## Currently working in **APIs Design and Definition**
 `And its development, deployment and management in`  **Apigee**
 
